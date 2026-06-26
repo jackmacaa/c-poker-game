@@ -1,5 +1,5 @@
 #include <string.h>
-#include "hand_eval.h"
+#include "../include/hand_eval.h"
 
 static const char *CATEGORY_NAMES[] = {
     "High Card",

@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "deck.h"
+#include "../include/deck.h"
 
 static void swap_cards(Card *a, Card *b)
 {

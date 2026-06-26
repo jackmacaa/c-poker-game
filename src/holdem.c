@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include "card.h"
-#include "deck.h"
-#include "hand_eval.h"
+#include "../include/card.h"
+#include "../include/deck.h"
+#include "../include/hand_eval.h"
 
 static void print_cards(const Card *cards, int count)
 {

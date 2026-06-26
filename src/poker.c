@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "holdem.h"
+#include "../include/holdem.h"
 
 int main(void)
 {

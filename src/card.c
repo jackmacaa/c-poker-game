@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "card.h"
+#include "../include/card.h"
 
 static const char *RANK_NAMES[] = {
     "?", "?", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"};
