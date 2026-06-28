@@ -1,5 +1,5 @@
 CC := gcc
-CFLAGS := -Wall -Wextra -Wpedantic -std=c11
+CFLAGS := -Wall -Wextra -Wpedantic -Werror -std=c11
 CPPFLAGS := -Iinclude
 
 TARGET := bin/poker.exe
